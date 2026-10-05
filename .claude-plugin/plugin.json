@@ -1,0 +1,9 @@
+{
+  "name": "mermaid-dianliu",
+  "version": "0.1.0",
+  "description": "把回覆裡的 mermaid 區塊畫成 SVG，主題可換（Claude 桌面版 Code 分頁）",
+  "author": {
+    "name": "kakapo1933"
+  },
+  "license": "MIT"
+}

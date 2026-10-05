@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+# 引擎載入時產生的型別檔，隨 Claude Code 版本重寫
+.claude-plugin/types/
+# 本機覆蓋的主題：個人配色不進版控
+renderer/local.tokens.mjs

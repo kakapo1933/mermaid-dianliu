@@ -1,0 +1,14 @@
+{
+  "name": "mermaid-dianliu-local",
+  "description": "mermaid-dianliu mod 的安裝來源",
+  "owner": {
+    "name": "kakapo1933"
+  },
+  "plugins": [
+    {
+      "name": "mermaid-dianliu",
+      "source": "./",
+      "description": "把回覆裡的 mermaid 區塊畫成 SVG，主題可換（Claude 桌面版 Code 分頁）"
+    }
+  ]
+}
